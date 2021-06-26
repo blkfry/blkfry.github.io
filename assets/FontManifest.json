@@ -6,5 +6,13 @@
           "asset": "fonts/geometric.tff"
         }
       ]
+    },
+    {
+      "family": "MaterialIcons",
+      "fonts": [
+        {
+          "asset": "MaterialIcons-Extended.ttf"
+        }
+      ]
     }
   ]
