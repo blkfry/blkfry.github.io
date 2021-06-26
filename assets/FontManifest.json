@@ -1,9 +1,9 @@
 [
     {
-      "family": "Geometric 231 BT",
+      "family": "geometric",
       "fonts": [
         {
-          "asset": "fonts/geometric.tff"
+          "asset": "fonts/geometric.ttf"
         }
       ]
     },
@@ -11,7 +11,31 @@
       "family": "MaterialIcons",
       "fonts": [
         {
-          "asset": "MaterialIcons-Extended.ttf"
+          "asset": "fonts/MaterialIcons-Regular.otf"
+        }
+      ]
+    },
+    {
+      "family": "FontAwesomeRegular",
+      "fonts": [
+        {
+          "asset": "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf"
+        }
+      ]
+    },
+    {
+      "family": "FontAwesomeSolid",
+      "fonts": [
+        {
+          "asset": "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf"
+        }
+      ]
+    },
+    {
+      "family": "FontAwesomeBrands",
+      "fonts": [
+        {
+          "asset": "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf"
         }
       ]
     }
