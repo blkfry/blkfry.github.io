@@ -1,42 +1,45 @@
 [
-    {
-      "family": "geometric",
-      "fonts": [
-        {
-          "asset": "fonts/geometric.ttf"
-        }
-      ]
-    },
-    {
-      "family": "MaterialIcons",
-      "fonts": [
-        {
-          "asset": "fonts/MaterialIcons-Regular.otf"
-        }
-      ]
-    },
-    {
-      "family": "FontAwesomeRegular",
-      "fonts": [
-        {
-          "asset": "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf"
-        }
-      ]
-    },
-    {
-      "family": "FontAwesomeSolid",
-      "fonts": [
-        {
-          "asset": "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf"
-        }
-      ]
-    },
-    {
-      "family": "FontAwesomeBrands",
-      "fonts": [
-        {
-          "asset": "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf"
-        }
-      ]
-    }
-  ]
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "fonts/MaterialIcons-Regular.otf"
+      }
+    ]
+  },
+  {
+    "family": "geometric",
+    "fonts": [
+      {
+        "asset": "fonts/geometric.ttf"
+      }
+    ]
+  },
+  {
+    "family": "packages/font_awesome_flutter/FontAwesomeBrands",
+    "fonts": [
+      {
+        "weight": 400,
+        "asset": "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf"
+      }
+    ]
+  },
+  {
+    "family": "packages/font_awesome_flutter/FontAwesomeRegular",
+    "fonts": [
+      {
+        "weight": 400,
+        "asset": "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf"
+      }
+    ]
+  },
+  {
+    "family": "packages/font_awesome_flutter/FontAwesomeSolid",
+    "fonts": [
+      {
+        "weight": 900,
+        "asset": "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf"
+      }
+    ]
+  }
+]
