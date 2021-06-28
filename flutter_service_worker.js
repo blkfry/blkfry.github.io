@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6b31204e31a33b492755eb0c4e2c8590",
+  "assets/AssetManifest.json": "576be3de877c1e7407213a6b08cea452",
 "assets/FontManifest.json": "db6eb800af849c07f843268049c241fd",
 "assets/fonts/geometric.ttf": "bc6d3c66a14c43efc97c79b68821fb50",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -12,15 +12,16 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "ffed6899ceb84c60a1efa51c809a57e4",
 "assets/resources/app_icon_outline.png": "8f04c662876693926f698f9ae8ca8a87",
+"assets/resources/buy_coffee_logo.png": "2e2b1bb76ad6287a794813d5b40bde5b",
 "assets/resources/mocked.png": "23ac4318e7a9e059f46afa6799fa59bb",
 "assets/resources/portrait.jpg": "e442ef8884979c3728ea98c3b8f4d9fd",
 "assets/resources/screenshot1.png": "b8f77aa0e963dbf3fad32b9eb6f57245",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a6b40b37070ee4fe539056ec35a80510",
-"/": "a6b40b37070ee4fe539056ec35a80510",
-"main.dart.js": "7d776a2738996f3b85617ff3aa12c542",
+"index.html": "975a158765c17c3a16096875f1051a8f",
+"/": "975a158765c17c3a16096875f1051a8f",
+"main.dart.js": "ac00edf4f8e1ee67aae781762b6aa1ef",
 "manifest.json": "eeedcc880d7147244607f34554e5e67d",
 "version.json": "f733a6f927e399869397eccd75a90e0b"
 };
