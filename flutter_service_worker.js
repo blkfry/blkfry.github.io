@@ -16,12 +16,12 @@ const RESOURCES = {
 "assets/resources/mocked.png": "23ac4318e7a9e059f46afa6799fa59bb",
 "assets/resources/portrait.jpg": "e442ef8884979c3728ea98c3b8f4d9fd",
 "assets/resources/screenshot1.png": "b8f77aa0e963dbf3fad32b9eb6f57245",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "f777ffa894d378011e1f3857ad77da8e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "975a158765c17c3a16096875f1051a8f",
-"/": "975a158765c17c3a16096875f1051a8f",
-"main.dart.js": "ac00edf4f8e1ee67aae781762b6aa1ef",
+"index.html": "d9af99e346830cfe15de164b739ce201",
+"/": "d9af99e346830cfe15de164b739ce201",
+"main.dart.js": "d749f4cdc7845d430f9cb5d71e4975e1",
 "manifest.json": "eeedcc880d7147244607f34554e5e67d",
 "version.json": "f733a6f927e399869397eccd75a90e0b"
 };
